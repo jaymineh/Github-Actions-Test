@@ -19,7 +19,7 @@ jobs:
       run: npm install
 
     - name: Run tests
-      run: echo "Running tests"
+      run: echo "Running some tests"
 
     - name: Run deploy
       run: echo "Running deployment"
