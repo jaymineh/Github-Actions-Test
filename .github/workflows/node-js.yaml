@@ -15,7 +15,7 @@ pull_request:
 # Defines the jobs that the workflow will execute
 jobs:
 # Job identifier, can be any name (here it's 'build')
-build:
+  build:
     # Specifies the type of virtual host environment (runner) to use
     runs-on: ubuntu-latest
 
